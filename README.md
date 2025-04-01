@@ -61,7 +61,7 @@ This tool is inspired by the research conducted by Palmskog et al. in their pape
 
 Although the tool here focuses on static analysis with Capstone, insights from the paper have influenced its design, especially the integration of disassembly and opcode frequency analysis in a verification context.
 
-You can access the full research paper here: Trustworthy Verification of RISC-V Binaries Using Symbolic Execution
+You can access the full research paper here: [Trustworthy Verification of RISC-V Binaries Using Symbolic Execution](https://arxiv.org/abs/2503.14135)
 
 ## Random Footnotes
 The code uses Capstone for disassembly, which makes it easier to parse and decode RISC-V binaries. I initially experimented with other disassemblers but found Capstone’s interface to be the most user-friendly for RISC-V.
