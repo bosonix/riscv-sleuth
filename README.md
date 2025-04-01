@@ -4,7 +4,7 @@ I have been working on a project over the past few weeks to implement a disassem
 
 The tool extracts code sections from ELF files, disassembles the instructions, counts the frequency of opcodes, and presents the results in a user-friendly format.
 
-Inspired by the paper "Trustworthy Verification of RISC-V Binaries Using Symbolic Execution" by Palmskog et al. (2025)which discusses the verification of RISC-V binaries through symbolic execution (and the picoCTF Cybersecurity Compeition), this tool provides a basic but somewhat effective approach to disassembling RISC-V binaries and analyzing their true structure.
+Inspired by the paper "Trustworthy Verification of RISC-V Binaries Using Symbolic Execution" by Palmskog et al. (2025)which discusses the verification of RISC-V binaries through symbolic execution (and the picoCTF Cybersecurity Competition), this tool provides a basic but somewhat effective approach to disassembling RISC-V binaries and analyzing their true structure.
 
 ![image](https://github.com/user-attachments/assets/bdcc02ac-e4cc-4964-b29f-670fb2c80baa)
 
